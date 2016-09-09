@@ -1,5 +1,5 @@
-SIFT
-1.
+Scale invariant feature transform
+1. keypoint detection
 2.
 3.
 4.
