@@ -1,0 +1,7 @@
+ISSUE #1 Write the python code to find the keypoint of a given image.	
+09/16/2016
+
+1. Use s = 2 (3 scales per octave) and 4 octaves.
+2. In each octave, 5 images are produced to compute DoG.
+3. The first image in the next octave has same \sigma as the third image in the current octave, 
+   but half the size as the current octave.
